@@ -1,4 +1,19 @@
-local-chat
-==========
+# local-chat
 
-Local chat written in C.
+Author: Mateusz Czajka <mat.czajka@gmail.com> 106596
+
+## building
+
+```
+make
+```
+
+## running
+
+```
+./s
+```
+
+```
+./c
+```
